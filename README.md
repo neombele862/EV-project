@@ -15,9 +15,13 @@ AWS S3 Bucket (for Data Storage): VoltConnect AWS S3
 ## Team Members
 
 Sipho Shimange
+
 Asanda Gambu
+
 Dimpho Lebea
+
 Welsh Dube
+
 Neo Mbele
 
 
