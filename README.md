@@ -1,9 +1,11 @@
-# {{project_name}}
+# ChargeNet
 
 ## Project description
 
-- *Include a short paragraph about the project and the code artefacts in this project.*
-- *Provide any relevant external links, e.g. to Notion, your S3 bucket, etc.*
+ChargeScape is a project aimed at building a data-driven EV charging network. Using machine learning and geographic data, 
+the project identifies optimal locations for charging stations to maximize convenience and efficiency.
+The project features data processing pipelines, predictive models, and visualization tools,
+all developed in Python and integrated with cloud storage for scalability.
 
 ## Team Members
 
