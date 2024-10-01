@@ -7,11 +7,19 @@ the project identifies optimal locations for charging stations to maximize conve
 The project features data processing pipelines, predictive models, and visualization tools,
 all developed in Python and integrated with cloud storage for scalability.
 
+External Links:
+
+Project Documentation: VoltConnect Notion
+AWS S3 Bucket (for Data Storage): VoltConnect AWS S3
+
 ## Team Members
 
-- Team Member Name 1
-- Team Member Name 2
-- ...
+Sipho Shimange
+Asanda Gambu
+Dimpho Lebea
+Welsh Dube
+Neo Mbele
+
 
 ## Environment
 
